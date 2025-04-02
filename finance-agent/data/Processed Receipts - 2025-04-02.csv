@@ -1,0 +1,12 @@
+Date,Merchant,Amount,Recurring,Split,Description,Category
+2025-04-01 12:00:00 AM,Apple,-15.24,TRUE,FALSE,AppleCare+ for iPhone 16 Pro Max,Hardware Insurance
+2025-04-01 06:03:54 PM,Apple,-3.38,TRUE,FALSE,AppleCare+ for Apple Watch SE,Hardware Insurance
+2025-04-01 12:27:43 PM,Marianne,1515.00,FALSE,FALSE,Rent bill - Master Bedroom (April),Real Estate Revenue
+2025-04-01 07:45:42 AM,EUNJI MAENG,1150.00,FALSE,FALSE,Rent fee - Den (April),Real Estate Revenue
+2025-03-31 10:27:37 PM,ELIZAVETA ULYBINA,1375.00,FALSE,FALSE,Liz - Living Room rent (April),Real Estate Revenue
+2025-04-01 12:00:00 AM,HESHAM ALZAHRANI,1785.00,FALSE,FALSE,Rhapsody rent payment (April),Real Estate Revenue
+2025-04-01 07:55:11 PM,EUNJI MAENG,15.00,FALSE,FALSE,Internet bill contribution (April),Real Estate Revenue
+2025-04-02 09:59:13 AM,Apple,-3.38,TRUE,TRUE,Bloomberg Digital Subscription (Monthly),All-in-one Services
+2025-04-02 09:59:13 AM,Apple,-31.64,TRUE,TRUE,Claude Pro - Monthly (Monthly),Productivity
+2025-04-02 04:14:00 PM,Natalia Chavarria,-150.00,TRUE,FALSE,Parking space portion of monthly rent (April),Rent & Mortgage
+2025-04-02 12:00:00 AM,Uber,-28.07,FALSE,FALSE,Wednesday afternoon ride,Ride Share
